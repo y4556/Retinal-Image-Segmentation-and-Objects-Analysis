@@ -1,5 +1,5 @@
 # Retinal-Image-Segmentation-and-Objects-Analysis
-<img src="https://github.com/y4556/Retinal-Image-Segmentation-and-Objects-Analysis/blob/main/1ffa9523-8d87-11e8-9daf-6045cb817f5b..JPG?raw=true" alt="Retinal Image" width="300"/>
+<img src="https://github.com/y4556/Retinal-Image-Segmentation-and-Objects-Analysis/blob/main/?raw=true" alt="Retinal Image" width="300"/>
 
 
 ## Overview  
