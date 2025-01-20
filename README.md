@@ -16,6 +16,8 @@ The dataset includes 50 fundus images, each with:
 - Original colored fundus image.
 - Corresponding blood vessel map.
 - Ground truth coordinates of the optic disc location.
+[Download the Dataset](https://drive.google.com/drive/folders/1DxmL9I2772qTCYwlbMk1KpKPtJb85o-H)
+ 
 
 ## Features
 1. **Preprocessing**:
