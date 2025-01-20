@@ -1,4 +1,7 @@
 # Retinal-Image-Segmentation-and-Objects-Analysis
+![Retinal Image](https://github.com/y4556/Retinal-Image-Segmentation-and-Objects-Analysis/blob/main/1ffa9523-8d87-11e8-9daf-6045cb817f5b..JPG?raw=true)
+
+
 ## Overview  
 This project implements a series of algorithms for analyzing fundus images to locate the optic disc and evaluate its characteristics. The pipeline includes preprocessing, vein structure enhancement, optic disc localization using various methods, and error analysis to assess the accuracy of the detected features.  
 
