@@ -16,7 +16,7 @@ The dataset includes 50 fundus images, each with:
 - Original colored fundus image.
 - Corresponding blood vessel map.
 - Ground truth coordinates of the optic disc location.
-- 
+
 ## Features
 1. **Preprocessing**:
    - Enhances vein structures using morphological operations and adaptive thresholding.
